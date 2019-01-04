@@ -9,6 +9,5 @@ def get_btc():
 	return str(price) + '$'
 
 
-
-
-get_btc()
+if __name__ == "__main__":
+    print(get_btc())
