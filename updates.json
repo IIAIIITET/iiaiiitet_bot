@@ -1,0 +1,3 @@
+{"ok":true,"result":[{"update_id":739110296,
+"message":{"message_id":11,"from":{"id":463507577,"is_bot":false,"first_name":"IIuCoC","username":"IIAIIITET","language_code":"ru"},"chat":{"id":463507577,"first_name":"IIuCoC","username":"IIAIIITET","type":"private"},"date":1546601433,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}},{"update_id":739110297,
+"message":{"message_id":12,"from":{"id":463507577,"is_bot":false,"first_name":"IIuCoC","username":"IIAIIITET","language_code":"ru"},"chat":{"id":463507577,"first_name":"IIuCoC","username":"IIAIIITET","type":"private"},"date":1546601434,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}]}
