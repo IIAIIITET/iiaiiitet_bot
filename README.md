@@ -1,2 +1,2 @@
-# iiaiitet_bot
+# iiaiiitet_bot
 bot
